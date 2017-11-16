@@ -1,7 +1,7 @@
 
 ## 本机运行
 
-> 使用maven构建，确保本机以安装maven
+> 使用maven构建，确保本机已安装maven
 
 ```
 	git clone https://github.com/spring-projects/spring-petclinic.git
